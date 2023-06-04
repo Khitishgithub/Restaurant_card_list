@@ -7,6 +7,7 @@ function displayItems(){
     var vegetable=  document.getElementById('vegetable');
     var chinese=  document.getElementById('chinese');
     var southIndian=  document.getElementById('south-indian');
+    
 
     
 
