@@ -210,7 +210,7 @@ const foodItem= [
     name: 'Veg Pakora',
     category : 'vegetable',
     rating : 4.3,
-    price: 4,
+    price: 40,
     img: 'vegetable-pakora.jpg',
     quantity: 1
 },
