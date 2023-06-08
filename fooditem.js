@@ -70,7 +70,7 @@ const foodItem= [
     name: 'Chicken Do Pyaza',
     category : 'chicken',
     rating : 4.3,
-    price: 14,
+    price: 160,
     img: 'Chicken-do-Pyaza.jpg',
     quantity: 1
 },
